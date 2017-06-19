@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\72407\documents\visual studio 2015\projects\consoleapplication15\src\scene.h(167): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\72407\documents\visual studio 2015\projects\consoleapplication15\src\scene.h(214): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication15.vcxproj -> C:\Users\72407\Documents\Visual Studio 2015\Projects\ConsoleApplication15\Debug\ConsoleApplication15.exe
+  ConsoleApplication15.vcxproj -> C:\Users\72407\Documents\Visual Studio 2015\Projects\ConsoleApplication15\Debug\ConsoleApplication15.pdb (Full PDB)
